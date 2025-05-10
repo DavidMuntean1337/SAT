@@ -1,6 +1,6 @@
 from itertools import combinations
 
-# Reprezentare clauză: set de intregi. ex: {1, -2} == (A ∨ ¬B)
+# Reprezentare clauză: set de intregi. e: {1, -2} == (A ∨ ¬B)
 
 def resolve(ci, cj):
     resolvents = []
